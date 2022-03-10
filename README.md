@@ -7,3 +7,9 @@ password:gratisan01
 ~#nano /root/miner/edit.sh
 speed0.0717 Ph/s X11
 commad. -nice hash.com
+
+$ .start-ubuntu
+bash: .start-ubuntu: No such file or directory
+$ . start-ubuntu.sh
+root@localhost:-# cd xmrig/build
+root@localhost:-/xmrig/buid#
