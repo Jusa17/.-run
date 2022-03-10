@@ -5,3 +5,4 @@ Memulai
 ~$su
 password:gratisan01
 ~#nano /root/miner/edit.sh
+speed0.0717 Ph/s X11
